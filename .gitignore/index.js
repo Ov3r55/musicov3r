@@ -16,10 +16,6 @@ const ytdl = require('ytdl-core');
 
 const fs = require('fs');
 
-const gif = require("gif-search");
-
-
-
 const client = new Discord.Client();
 
 const prefix = "*";
