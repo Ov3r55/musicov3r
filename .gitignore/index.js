@@ -1,4 +1,4 @@
-const Util = require('discord.js');
+const Discord = require('discord.js');
 
 const getYoutubeID = require('get-youtube-id');
 
@@ -16,7 +16,9 @@ const fs = require('fs');
 
 const gif = require("gif-search");
 
-const client = new Discord.client();
+
+
+const client = new Discord.Client();
 
 const prefix = "*";
 /////////////////////////
