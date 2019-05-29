@@ -392,4 +392,4 @@ if (!args) return message.channel.send('Merci de me donner quelque chose a reche
   }
 });
 
-client.login("sSAeAicWDa76sLzBVlEr2ZgBW64tllDK");
+client.login("WGw-XoeUXDi_CAyPQ_O4rJg2jX17l9e0");
