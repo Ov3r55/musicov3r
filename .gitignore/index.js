@@ -16,6 +16,8 @@ const fs = require('fs');
 
 const gif = require("gif-search");
 
+const client = new Discord.client();
+
 const prefix = "*";
 /////////////////////////
 ////////////////////////
